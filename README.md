@@ -14,8 +14,6 @@ The Community Slack instance for MongoDB is online at [http://mongo-db.slack.com
 
 ## How do I get involved?
 
-
-
 *   Join the Slack instance. 
     *   Visit [http://launchpass.com/mongo-db](http://launchpass.com/mongo-db). Once you register, you’ll receive an email with instructions for logging in.
 *   Visit the **#intros** channel and introduce yourself. 
@@ -31,18 +29,15 @@ The Community Slack instance for MongoDB is online at [http://mongo-db.slack.com
 
 No. The Slack instance belongs to the community. It is not an official support channel. The MongoDB Developer Relations team are stewards of the Slack instance and help to welcome and guide users, but the instance is not an official support mechanism.  That said, there are MongoDB employees that frequently visit the channels and answer questions. This should not be confused with a formal support option, however.
 
-
 ## Using Slack Best Practice
 
 As the number of community members grows, the importance of maintaining good Slack practice also grows. Use these tips to ensure effective use of the workspace.
 
-
-#### Find the right channel for your message or question
+### Find the right channel for your message or question
 
 To ask a question of the community, first decide whether the question is specific to a product or would be best served in a single channel related to a product. When asking about MongoDB Atlas, for example, place the question in #atlas. Stitch questions should go in #stitch, for example.
 
-
-#### Use Threads
+### Use Threads
 
 When responding to a community member’s question or comment, **start a thread** rather than a new message. Threads let you respond directly to a message in a channel, keeping the replies, images, and other files organized neatly in a single, threaded conversation. Threaded replies and their files stay connected to the original message, and only those who have contributed to or are following the thread will be notified.
 
@@ -56,14 +51,18 @@ When responding to a community member’s question or comment, **start a thread*
 *   Organize conversations and preserve a meaningful context.
 
 
-#### Avoid Cross-Posting
+### Avoid Cross-Posting
 
 Cross-posting is the practice of posting a question or a topic in multiple channels at once. This can frustrate users that belong to multiple channels. Find the best, most suitable channel for your question or topic and place it there. If you don’t get a response, consider searching the [MongoDB User Discussion Forum](https://groups.google.com/forum/#!forum/mongodb-user) or other support outlets.
 
 
-#### Search Before You Post
+### Search Before You Post
 
 A limitation of the free version of Slack we have in place is that only the last 10,000 messages are available. That said, if you have a question, you may find that it’s been recently asked and you may find an answer right away using the search feature.
+
+### Wrap Code Examples in Backticks
+
+Wrapping your code in backticks (\`) will ensure that it is presented as a code sample. This makes it easier to read and enables people to copy/paste.
 
 
 ## Code of Conduct
