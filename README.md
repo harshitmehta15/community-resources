@@ -62,7 +62,7 @@ A limitation of the free version of Slack we have in place is that only the last
 
 ### Wrap Code Examples in Backticks
 
-Wrapping your code in backticks (\`) will ensure that it is presented as a code sample. This makes it easier to read and enables people to copy/paste.
+Wrapping your code in backticks (\`) will ensure that it is presented as a code sample. This makes it easier to read and enables people to copy/paste.  Enclosing text in backticks causes the text to be presented in the slack message as a code block.
 
 #### Here's an example
 ```
