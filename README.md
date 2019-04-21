@@ -65,13 +65,13 @@ A limitation of the free version of Slack we have in place is that only the last
 Wrapping your code in backticks (\`) will ensure that it is presented as a code sample. This makes it easier to read and enables people to copy/paste.
 
 #### Here's an example
-`
+```
 exports = function(payload) {
   const mongodb = context.services.get("mongodb-atlas");
   const mycollection = mongodb.db("hackathon").collection("contacts");
   return mycollection.find({}).toArray();
 };
-`
+```
 
 ## Code of Conduct
 
