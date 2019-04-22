@@ -67,6 +67,9 @@ exports = function(payload) {
   return mycollection.find({}).toArray();
 };
 ```
+
+In order to have the code appear as such, simple wrap the text of your Slack message in single backticks (\`)
+
 ## Application Integrations
 
 Slack enables integration with third party applications. As a shared, community instance, there are only 10 application configurations supported. As such, this feature is not supported. 
