@@ -39,12 +39,7 @@ To ask a question of the community, first decide whether the question is specifi
 
 ### Use Threads
 
-When responding to a community member’s question or comment, **start a thread** rather than a new message. Threads let you respond directly to a message in a channel, keeping the replies, images, and other files organized neatly in a single, threaded conversation. Threaded replies and their files stay connected to the original message, and only those who have contributed to or are following the thread will be notified.
-
-
-    Using threads you can easily:
-
-
+When responding to a community member’s question or comment, **start a thread** rather than a new message. Threads let you respond directly to a message in a channel, keeping the replies, images, and other files organized neatly in a single, threaded conversation. Threaded replies and their files stay connected to the original message, and only those who have contributed to or are following the thread will be notified. Threads enable you to:
 
 *   Tie your thoughts and feedback to a specific message or file.
 *   Encourage open discussion without distracting others.
@@ -76,6 +71,3 @@ exports = function(payload) {
 ## Code of Conduct
 
 Please keep our community code of conduct in mind when responding to or engaging with any community member in Slack or in any social channel.  See [https://www.mongodb.com/community-code-of-conduct](https://www.mongodb.com/community-code-of-conduct) for more information.  The Developer Advocacy team members have administrative privileges on the Slack instance. If you should encounter a community member acting in conflict with our Code of Conduct (see CoC section of this document), please notify community-conduct@mongodb.com. 
-
-
-<!-- Docs to Markdown version 1.0β17 -->
