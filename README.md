@@ -67,6 +67,11 @@ exports = function(payload) {
   return mycollection.find({}).toArray();
 };
 ```
+## Application Integrations
+
+Slack enables integration with third party applications. As a shared, community instance, there are only 10 application configurations supported. As such, this feature is not supported. 
+
+**IMPORTANT: Do not use, add, modify or remove any application integrations. Doing so may result in removal of your account from the community slack instance.** 
 
 ## Code of Conduct
 
