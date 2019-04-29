@@ -68,12 +68,20 @@ exports = function(payload) {
 };
 ```
 
+To make that happen, I placed the code in the slack chat box like this:
+
 \`\`\`
+
 exports = function(payload) {
+
   const mongodb = context.services.get("mongodb-atlas");
+  
   const mycollection = mongodb.db("hackathon").collection("contacts");
+  
   return mycollection.find({}).toArray();
+  
 };
+
 \`\`\`
 
 In order to have the code appear as such, simple wrap the text of your Slack message in three backticks (\`\`\`)
