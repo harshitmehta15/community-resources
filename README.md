@@ -57,7 +57,7 @@ A limitation of the free version of Slack we have in place is that only the last
 
 ### Wrap Code Examples in Backticks
 
-Wrapping your code in backticks (\`) will ensure that it is presented as a code sample. This makes it easier to read and enables people to copy/paste.  Enclosing text in backticks causes the text to be presented in the slack message as a code block.
+Wrapping your code in three backticks (\`\`\`) will ensure that it is presented as a code sample. This makes it easier to read and enables people to copy/paste.  Enclosing text in backticks causes the text to be presented in the slack message as a code block.
 
 #### Here's an example
 ```
@@ -68,7 +68,15 @@ exports = function(payload) {
 };
 ```
 
-In order to have the code appear as such, simple wrap the text of your Slack message in single backticks (\`)
+\`\`\`
+exports = function(payload) {
+  const mongodb = context.services.get("mongodb-atlas");
+  const mycollection = mongodb.db("hackathon").collection("contacts");
+  return mycollection.find({}).toArray();
+};
+\`\`\`
+
+In order to have the code appear as such, simple wrap the text of your Slack message in three backticks (\`\`\`)
 
 ## Application Integrations
 
