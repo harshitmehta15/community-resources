@@ -45,6 +45,7 @@ When responding to a community member’s question or comment, **start a thread*
 *   Encourage open discussion without distracting others.
 *   Organize conversations and preserve a meaningful context.
 
+When you ask a question, please try to place an initial question in the appropriate channel - and then start a thread if you have additional detail to provide. This will set the precedent for community members who wish to help you.
 
 ### Avoid Cross-Posting
 
@@ -84,7 +85,7 @@ exports = function(payload) {
 
 \`\`\`
 
-In order to have the code appear as such, simple wrap the text of your Slack message in three backticks (\`\`\`)
+In order to have the code appear as such, simply wrap the text of your Slack message in three backticks (\`\`\`)
 
 ## Application Integrations
 
