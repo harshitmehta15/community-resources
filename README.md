@@ -29,6 +29,8 @@ The Community Slack instance for MongoDB is online at [http://mongo-db.slack.com
 
 No. The Slack instance belongs to the community. It is not an official support channel. The MongoDB Developer Relations team are stewards of the Slack instance and help to welcome and guide users, but the instance is not an official support mechanism.  That said, there are MongoDB employees that frequently visit the channels and answer questions. This should not be confused with a formal support option, however.
 
+If you ask a question in one of the channels in the Community Slack workspace and you do not get an answer you should try posting your question in the (https://groups.google.com/forum/#!forum/mongodb-user)[MongoDB User Group].
+
 ## Using Slack Best Practice
 
 As the number of community members grows, the importance of maintaining good Slack practice also grows. Use these tips to ensure effective use of the workspace.
